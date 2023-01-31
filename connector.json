@@ -5,9 +5,9 @@
     "min": "2022.3"
   },
   "vendor": {
-    "name": "Paul Przybysz",
+    "name": "PP",
     "support-link": "https://www.logistikjunge.de",
-    "email": "pprzybysz@salesforce.com"
+    "email": "pp@salesforce.com"
   },
   "permission": {
     "api": {
